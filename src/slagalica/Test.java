@@ -151,7 +151,6 @@ public class Test {
                 if (value == 2) {
                 	hasValueAppearedCaseTimes = true;
                 } else {
-                    // If any value has a count other than 2, it's not what we're looking for
                 	hasValueAppearedCaseTimes = false;
                     break;
                 }
